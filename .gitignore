@@ -2,3 +2,5 @@ __pycache__/
 *.pyc
 .DS_Store
 Thumbs.db
+# para rehacer capturas, PDF y control de fugas: tienen rutas de la PC, no se publican
+.herramientas/
